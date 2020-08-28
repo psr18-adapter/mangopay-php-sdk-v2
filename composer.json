@@ -1,0 +1,20 @@
+{
+  "name": "psr18-adapter/mangopay-php-sdk-v2",
+  "autoload": {
+    "psr-4": {
+      "Psr18Adapter\\Mangopay\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "keywords": ["mangopay", "psr-18"],
+  "license": "MIT",
+  "homepage": "https://github.com/psr18-adapter/mangopay-php-sdk-v2",
+  "require": {
+    "php": ">=7.0",
+    "mangopay/php-sdk-v2": ">=2.5.1",
+    "psr/http-client": "^1.0",
+    "psr/http-factory": "^1.0"
+  }
+}
