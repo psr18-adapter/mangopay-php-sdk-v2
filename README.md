@@ -39,4 +39,4 @@ services:
 
 ## Licensing
 
-MIT license. Please see [License File](LICENSE.md) for more information.
+MIT license. Please see [License File](LICENSE) for more information.
